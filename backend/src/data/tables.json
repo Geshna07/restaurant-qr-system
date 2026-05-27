@@ -1,0 +1,10 @@
+{
+  "tables": [
+    { "id": "table1", "name": "Table 1", "capacity": 2, "active": true },
+    { "id": "table2", "name": "Table 2", "capacity": 4, "active": true },
+    { "id": "table3", "name": "Table 3", "capacity": 4, "active": true },
+    { "id": "table4", "name": "Table 4", "capacity": 6, "active": true },
+    { "id": "table5", "name": "Table 5", "capacity": 2, "active": true },
+    { "id": "table6", "name": "Table 6", "capacity": 8, "active": true }
+  ]
+}

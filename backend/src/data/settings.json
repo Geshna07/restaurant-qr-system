@@ -1,0 +1,18 @@
+{
+  "restaurant": {
+    "name": "Spice Garden",
+    "tagline": "Authentic Indian Cuisine",
+    "address": "123 Food Street, Hyderabad",
+    "phone": "+91 98765 43210",
+    "email": "info@spicegarden.com",
+    "currency": "₹",
+    "currencyCode": "INR",
+    "openTime": "11:00",
+    "closeTime": "23:00",
+    "isOpen": true,
+    "logo": "🍛",
+    "primaryColor": "#FF6B35",
+    "gstPercent": 5,
+    "serviceCharge": 0
+  }
+}

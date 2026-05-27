@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "name": "Admin User",
+      "email": "admin@restaurant.com",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "admin",
+      "active": true,
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "user2",
+      "name": "Staff Member 1",
+      "email": "staff1@restaurant.com",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "staff",
+      "active": true,
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "user3",
+      "name": "Staff Member 2",
+      "email": "staff2@restaurant.com",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "staff",
+      "active": true,
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "orders": [
+    {
+      "id": "58d00566-c1a0-49fe-bf3d-d6c8386f7f47",
+      "orderNumber": "ORD1779792238320",
+      "tableId": "table1",
+      "customerName": "Guest",
+      "items": [
+        {
+          "id": "item1",
+          "name": "Paneer Tikka",
+          "price": 220,
+          "quantity": 1
+        }
+      ],
+      "specialInstructions": "",
+      "status": "pending",
+      "subtotal": 220,
+      "gst": 11,
+      "total": 231,
+      "paymentStatus": "paid",
+      "paymentMethod": "online",
+      "createdAt": "2026-05-26T10:43:58.320Z",
+      "updatedAt": "2026-05-26T10:43:58.320Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "time": "2026-05-26T10:43:58.320Z"
+        }
+      ]
+    },
+    {
+      "id": "cd145c04-f553-4448-960a-8ac91cf73c64",
+      "orderNumber": "ORD1779792278543",
+      "tableId": "table1",
+      "customerName": "Guest",
+      "items": [
+        {
+          "id": "item3",
+          "name": "Veg Spring Rolls",
+          "price": 160,
+          "quantity": 1
+        }
+      ],
+      "specialInstructions": "",
+      "status": "pending",
+      "subtotal": 160,
+      "gst": 8,
+      "total": 168,
+      "paymentStatus": "paid",
+      "paymentMethod": "online",
+      "createdAt": "2026-05-26T10:44:38.543Z",
+      "updatedAt": "2026-05-26T10:44:38.543Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "time": "2026-05-26T10:44:38.543Z"
+        }
+      ]
+    },
+    {
+      "id": "67f5bf93-d352-4835-8196-cc949a12c7db",
+      "orderNumber": "ORD1779792297056",
+      "tableId": "table1",
+      "customerName": "Guest",
+      "items": [
+        {
+          "id": "item11",
+          "name": "Ice Cream",
+          "price": 120,
+          "quantity": 1
+        }
+      ],
+      "specialInstructions": "",
+      "status": "ready",
+      "subtotal": 120,
+      "gst": 6,
+      "total": 126,
+      "paymentStatus": "paid",
+      "paymentMethod": "online",
+      "createdAt": "2026-05-26T10:44:57.056Z",
+      "updatedAt": "2026-05-27T04:05:38.040Z",
+      "statusHistory": [
+        {
+          "status": "pending",
+          "time": "2026-05-26T10:44:57.056Z"
+        },
+        {
+          "status": "accepted",
+          "time": "2026-05-27T04:05:28.605Z"
+        },
+        {
+          "status": "preparing",
+          "time": "2026-05-27T04:05:33.922Z"
+        },
+        {
+          "status": "ready",
+          "time": "2026-05-27T04:05:38.042Z"
+        }
+      ]
+    }
+  ]
+}
